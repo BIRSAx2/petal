@@ -1,4 +1,11 @@
 # Petal
+Petal stands for:
+* [Phoenix](https://www.phoenixframework.org/)
+* [Elixir](https://elixir-lang.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Alpine JS](https://alpinejs.dev/) (optional)
+* [Live View (HEEX)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
+
 
 To start your Phoenix server:
 
